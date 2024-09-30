@@ -1,0 +1,16 @@
+body {
+ background-color: rgb(150, 3, 84);
+ color: beige;
+ font-family: "Merriweather", serif;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 700px;
+ margin: 0;
+}
+
+button {
+    background-color: rgb(196, 149, 182);
+    color: black;
+    font-family: "Merriweather", serif;
+}
